@@ -1,0 +1,96 @@
+
+/* background img*/
+body {
+	background-image:url("../images/guitars2.jpg");
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+/*mp4 player */
+.studio{
+	width:70%;
+}
+
+
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+	  opacity:0.9;
+	  font-weight:bold;
+	  font-size:18px;
+    }
+    
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 950px}
+    
+    /* leftside navigation bar */
+    .leftsidenav {
+      padding-top: 20px;
+	  color:#FFFFFF;
+      height: 35%;
+	  border-style:solid;
+	  border-color:#000000;
+	  font-weight:bold;
+	  background-image:url("../images/meiguimu.png");	
+    }
+	.leftsidenavtxt:hover
+	{
+	color:#FFFFFF;
+	}
+    
+    /* the btm footer*/
+    footer {
+      color: black;
+      padding: 15px;
+	  font-weight:bold;
+	  font-size:12px;
+	  background-image:url("../images/sky.jpg");
+	background-size:cover;
+	background-attachment:fixed;	
+	opacity:0.9;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
+	
+	.well{
+	  padding-top: 20px;
+	  color:#FFFFFF;
+      height: 35%;
+	  border-style:solid;
+	  border-color:#000000;
+	  font-weight:bold;
+	  background-image:url("../images/meiguimu.png");	
+	}
+	
+	.fa:hover{
+		color:#FFFFFF;
+	}
+		
+
+	.maincontent{
+	background-image:url("../images/sky.jpg");	
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+	}
+	
+	.titles{
+		text-shadow:10px 10px 6px #333;
+		color:#FFFFFF;
+		font-size:50px;
+	}
+	.txtcontent{
+		color:#000000;
+	}
+		
+	
+	

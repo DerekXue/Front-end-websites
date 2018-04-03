@@ -1,0 +1,77 @@
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+	  opacity:0.9;
+	  font-weight:bold;
+	  font-size:18px;
+   }
+
+/* background img*/
+body {
+	background-image:url("../images/guitar-showcase-1_meitu_2.jpg");
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.content1{
+	background-image:url("../images/guitar-showcase-1_meitu_2.jpg");
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+	text-shadow:2px 2px 6px #333;
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.content2{
+	background-image:url("../images/guitar-showcase-1_meitu_2.jpg");
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+	text-shadow:2px 2px 6px #333;
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+
+.row{
+	font-weight:bold;
+}
+
+.title{
+	font-weight:bold;
+	font-size:50px;
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+	text-shadow:10px 10px 6px #333;
+	position:center;
+	background-size:cover;
+	background-attachment:fixed;
+	}
+	
+	
+	.guitarhref{
+		color:white;
+	}
+		
+	.guitarhref:hover{
+		color:#337ab7;
+	}
+	
+
+/* the btm footer*/
+    footer {
+      color: white;
+      padding: 15px;
+	  font-weight:bold;
+	  font-size:12px;
+	  background-image:url("../images/sakura.jpg");
+	background-size:cover;
+	background-attachment:fixed;	
+	opacity:0.9;
+    }
